@@ -1,5 +1,3 @@
-// 2. Faça um programa que converta metris para centimetros
-
 #include <stdio.h>
 
 int main(){
